@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Tatas Handharu Sworo — Software Engineering, Data and Web3</title>
+<desc id="desc">Blue technology-inspired banner with abstract dotted waves and profile details.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#00a9df"/><stop offset=".52" stop-color="#078bd1"/><stop offset="1" stop-color="#004e9b"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#70eaff" stop-opacity=".9"/><stop offset="1" stop-color="#70eaff" stop-opacity="0"/></radialGradient>
+  <pattern id="dots" width="13" height="13" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.8" fill="#b5f5ff" opacity=".5"/></pattern>
+  <pattern id="fine" width="7" height="7" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#e4fbff" opacity=".35"/></pattern>
+  <clipPath id="clip"><rect width="1200" height="300" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="1200" height="300" fill="url(#bg)"/>
+<ellipse cx="970" cy="80" rx="470" ry="250" fill="url(#glow)"/>
+<path d="M300 320 C430 160 610 65 820 80 S1080 150 1240 -30 L1240 320Z" fill="url(#dots)" opacity=".8"/>
+<path d="M420 320 C520 140 720 55 930 90 S1120 100 1220 20" fill="none" stroke="#9beeff" stroke-width="42" stroke-dasharray="1 12" opacity=".22"/>
+<path d="M700 310 C800 210 920 150 1200 70" fill="none" stroke="#e3fbff" stroke-width="2" opacity=".35"/>
+<circle cx="1150" cy="15" r="140" fill="none" stroke="#a9f3ff" stroke-width="12" opacity=".18"/>
+<circle cx="1150" cy="15" r="105" fill="none" stroke="#a9f3ff" stroke-width="5" opacity=".28"/>
+<text x="56" y="68" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="4">ENGINEERING / DATA / WEB3</text>
+<text x="56" y="143" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="800">TATAS HANDHARU SWORO</text>
+<text x="59" y="180" fill="#e9fbff" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="600">Software Engineer  ·  AI Systems  ·  Blockchain Intelligence</text>
+<path d="M60 211 H440" stroke="#b9f5ff" stroke-width="2" opacity=".75"/>
+<text x="60" y="244" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="16">Backend Engineering  |  Applied AI  |  Web3</text>
+<text x="60" y="272" fill="#d8f7ff" font-family="Arial, Helvetica, sans-serif" font-size="14">Jakarta, Indonesia  ·  UTC+7</text>
+</g></svg>
