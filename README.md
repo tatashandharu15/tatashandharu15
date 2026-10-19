@@ -53,7 +53,7 @@ Cybersecurity intelligence project.
 
 ### Data & Applied ML
 
-[CV Analytics with LLM](https://github.com/tatashandharu15/CV-Analytics-LLM--using-OpenAI) · [IDX Stock Price Prediction](https://github.com/tatashandharu15/Analysis_and_Prediction_of_Indonesia-Stock-Exchange-IDX-_Stock-Prices)
+[CV Analytics with LLM](https://github.com/tatashandharu15/CV-Analytics-LLM--using-OpenAI) · [IDX Stock Price Prediction](https://github.com/tatashandharu15/Analysis_and_Prediction_of_Indonesia_Stock_Exchange-IDX-_Stock_Prices)
 
 </td></tr>
 </table>
