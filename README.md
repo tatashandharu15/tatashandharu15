@@ -10,55 +10,78 @@
 
 ---
 
-## About
+## 👋 A little about me
 
-I'm an engineer interested in turning complex workflows and data into dependable software. My work spans backend development, AI/LLM applications, monitoring platforms, and blockchain-oriented projects.
+I enjoy building software that connects the dots — from backend systems and AI-powered workflows to the possibilities of Web3.
 
-- **Software Engineering** — backend services, API design, integrations, and maintainable applications.
-- **AI Systems** — LLM integrations, AI-assisted workflows, and applied machine learning.
-- **Web3 & Blockchain** — wallet intelligence, blockchain analytics, and on-chain risk concepts.
-- **Data & Monitoring** — analytical workflows, forecasting, and operational visibility.
+I’m usually curious about **how things work under the hood**: how data moves, how services fit together, how AI can make a workflow smarter, and how to turn an idea into something people can actually use.
 
-## Selected Work
+Right now, I’m exploring the space where **software engineering × AI × blockchain** meet. This profile is my workshop: experiments, projects, and things I’m learning along the way.
+
+## 🚀 Things on my workbench
 
 <table>
-<tr><td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
-### Web3 & Blockchain
+<h3>⛓️ Cryptonite Engine</h3>
 
-**[Cryptonite Engine](https://github.com/tatashandharu15/cryptonite-engine)**  
-Blockchain-focused engineering project.
+A project exploring blockchain-focused engineering and tooling.
 
-**[Nexchain](https://github.com/tatashandharu15/nexchain)**  
-Web3 project workspace.
+<a href="https://github.com/tatashandharu15/cryptonite-engine"><img src="https://img.shields.io/badge/EXPLORE_REPO-00BFA6?style=for-the-badge&logo=github&logoColor=white" alt="Explore Cryptonite Engine"/></a>
 
-</td><td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
-### AI & Platform Engineering
+<h3>🌐 Nexchain</h3>
 
-**[AI-Assisted Lead Management](https://github.com/tatashandharu15/ai-assisted-lead-management)**  
-AI-assisted lead-management workflow.
+A Web3 project space for exploring blockchain ideas and implementation.
 
-**[Cyber Threat Intelligence](https://github.com/tatashandharu15/Cyber-Threat-Intelligent)**  
-Cybersecurity intelligence project.
+<a href="https://github.com/tatashandharu15/nexchain"><img src="https://img.shields.io/badge/EXPLORE_REPO-7B61FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore Nexchain"/></a>
 
-</td></tr>
-<tr><td valign="top">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### Monitoring
+<h3>🧠 AI-Assisted Lead Management</h3>
 
-[Brand Monitoring](https://github.com/tatashandharu15/brand_monitoring) · [Project Monitoring](https://github.com/tatashandharu15/project_monitoring)
+An application focused on bringing AI assistance into a lead-management workflow.
 
-</td><td valign="top">
+<a href="https://github.com/tatashandharu15/ai-assisted-lead-management"><img src="https://img.shields.io/badge/EXPLORE_REPO-0B84F3?style=for-the-badge&logo=github&logoColor=white" alt="Explore AI-Assisted Lead Management"/></a>
 
-### Data & Applied ML
+</td>
+<td width="50%" valign="top">
 
-[CV Analytics with LLM](https://github.com/tatashandharu15/CV-Analytics-LLM--using-OpenAI) · [IDX Stock Price Prediction](https://github.com/tatashandharu15/Analysis_and_Prediction_of_Indonesia_Stock_Exchange-IDX-_Stock_Prices)
+<h3>🔎 CV Analytics with LLM</h3>
 
-</td></tr>
+An experiment with using large language models for CV-related analysis.
+
+<a href="https://github.com/tatashandharu15/CV-Analytics-LLM--using-OpenAI"><img src="https://img.shields.io/badge/EXPLORE_REPO-FF72CF?style=for-the-badge&logo=github&logoColor=white" alt="Explore CV Analytics with LLM"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🛡️ Cyber Threat Intelligence</h3>
+
+A project in the cybersecurity intelligence space.
+
+<a href="https://github.com/tatashandharu15/Cyber-Threat-Intelligent"><img src="https://img.shields.io/badge/EXPLORE_REPO-FF9F43?style=for-the-badge&logo=github&logoColor=white" alt="Explore Cyber Threat Intelligence"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>📊 Data & Monitoring Projects</h3>
+
+A collection spanning stock-price prediction, brand monitoring, and project monitoring.
+
+<a href="https://github.com/tatashandharu15?tab=repositories"><img src="https://img.shields.io/badge/BROWSE_ALL_PROJECTS-334155?style=for-the-badge&logo=github&logoColor=white" alt="Browse all projects"/></a>
+
+</td>
+</tr>
 </table>
-
-Project descriptions are intentionally brief; each repository's README is the source of truth for implementation details and current status.
 
 ## Technical Toolkit
 
