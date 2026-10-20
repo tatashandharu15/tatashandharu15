@@ -89,7 +89,7 @@ A collection spanning stock-price prediction, brand monitoring, and project moni
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=go,python,ts,js,php,html,css&theme=dark" alt="Go, Python, TypeScript, JavaScript, PHP, HTML and CSS" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,php,html,css&theme=dark" alt="Python, TypeScript, JavaScript, PHP, HTML and CSS" />
 
 ### 🏗️ Software Engineering
 
