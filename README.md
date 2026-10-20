@@ -89,7 +89,7 @@ A collection spanning stock-price prediction, brand monitoring, and project moni
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,php,html,css&theme=dark" alt="Python, TypeScript, JavaScript, PHP, HTML and CSS" />
+<img src="https://skillicons.dev/icons?i=go,python,ts,js,php,html,css&theme=dark" alt="Go, Python, TypeScript, JavaScript, PHP, HTML and CSS" />
 
 ### 🏗️ Software Engineering
 
@@ -129,7 +129,7 @@ A collection spanning stock-price prediction, brand monitoring, and project moni
 
 ### ⛓️ Web3 & Blockchain
 
-<img src="https://skillicons.dev/icons?i=solidity,go,ts,python,ethereum&theme=dark" alt="Solidity, Go, TypeScript, Python and Ethereum" />
+<img src="https://skillicons.dev/icons?i=solidity,ethereum&theme=dark" alt="Solidity and Ethereum" />
 
 <img src="https://img.shields.io/badge/Foundry-202020?style=for-the-badge&logo=ethereum&logoColor=white" alt="Foundry" />
 <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white" alt="OpenZeppelin" />
