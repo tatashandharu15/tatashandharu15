@@ -87,29 +87,64 @@ A collection spanning stock-price prediction, brand monitoring, and project moni
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,sql,html,css&theme=dark" alt="Python, TypeScript, JavaScript, SQL, HTML and CSS" />
+### 💻 Languages
 
-**Languages & Foundations**
+<img src="https://skillicons.dev/icons?i=python,ts,js,php,html,css&theme=dark" alt="Python, TypeScript, JavaScript, PHP, HTML and CSS" />
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,react,nextjs,tailwind&theme=dark" alt="FastAPI, Node.js, React, Next.js and Tailwind CSS" />
+### 🏗️ Software Engineering
 
-**Backend, APIs & Frontend**
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,django,react,nextjs,tailwind&theme=dark" alt="FastAPI, Node.js, Express, Django, React, Next.js and Tailwind CSS" />
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb&theme=dark" alt="PostgreSQL, MySQL, Redis and MongoDB" />
+<img src="https://img.shields.io/badge/REST%20APIs-0B84F3?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+<img src="https://img.shields.io/badge/WebSockets-7B61FF?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" />
+<img src="https://img.shields.io/badge/JWT-222222?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT authentication" />
+<img src="https://img.shields.io/badge/Testing%20%26%20CI-00A98F?style=for-the-badge&logo=githubactions&logoColor=white" alt="Testing and CI" />
 
-**Data Stores & Caching**
+### 🗄️ Databases & Data Access
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" alt="PostgreSQL, MySQL, MongoDB and Redis" />
+
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
+<img src="https://img.shields.io/badge/Alembic-333333?style=for-the-badge" alt="Alembic migrations" />
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge" alt="Pydantic" />
+
+### 🧠 AI, LLM & Machine Learning
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" alt="PyTorch, TensorFlow and OpenCV" />
 
-**AI, Machine Learning & Computer Vision**
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,nginx,githubactions,git&theme=dark" alt="Docker, Kubernetes, AWS, Linux, Nginx, GitHub Actions and Git" />
+### ☁️ DevOps, Cloud & Observability
 
-**Infrastructure, DevOps & Delivery**
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,nginx,githubactions,git,github&theme=dark" alt="Docker, Kubernetes, AWS, Linux, Nginx, GitHub Actions, Git and GitHub" />
+
+<img src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white" alt="Traefik" />
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+<img src="https://img.shields.io/badge/S3%20%2F%20MinIO-C72E49?style=for-the-badge" alt="S3 and MinIO object storage" />
+
+### ⛓️ Web3 & Blockchain
 
 <img src="https://skillicons.dev/icons?i=solidity,ethereum&theme=dark" alt="Solidity and Ethereum" />
 
-**Web3 & Blockchain**
+<img src="https://img.shields.io/badge/Foundry-202020?style=for-the-badge&logo=ethereum&logoColor=white" alt="Foundry" />
+<img src="https://img.shields.io/badge/On--chain%20Analytics-00BFA6?style=for-the-badge" alt="On-chain analytics" />
+<img src="https://img.shields.io/badge/Wallet%20Intelligence-7B61FF?style=for-the-badge" alt="Wallet intelligence" />
+
+### 📊 Data Science, BI & Automation
+
+<img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" alt="NumPy and pandas" />
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+<img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+<img src="https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics 4" />
+<img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier" />
+<img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge" alt="Make automation" />
 
 </div>
 
@@ -117,83 +152,62 @@ A collection spanning stock-price prediction, brand monitoring, and project moni
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI & LLM Engineering
+### 🧩 Software Engineering & Architecture
 
-- OpenAI API and Gemini
-- LangChain and Hugging Face
-- Retrieval-Augmented Generation (RAG)
-- LLM application integration and AI-assisted workflows
-- Prompt design, structured outputs, and tool integrations
-- Applied NLP and document intelligence
+- Backend and platform engineering
+- REST API design and service integrations
+- Authentication and session management (JWT)
+- Database modeling, migrations, and ORM workflows
+- Modular application architecture and domain-based services
+- Testing, debugging, code review, and maintainability
+- Real-time integrations with WebSockets
+- CI/CD and repeatable deployment workflows
 
 </td>
+<td width="50%" valign="top">
+
+### 🤖 AI & LLM Engineering
+
+- OpenAI API and Google Gemini
+- LangChain and Hugging Face
+- Retrieval-Augmented Generation (RAG)
+- AI agents, tool integrations, and structured outputs
+- Prompt engineering and LLM application integration
+- Applied NLP and document intelligence
+- AI workflow automation and monitoring
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📈 Data Science & Analytics
 
 - pandas, NumPy, scikit-learn
 - Data cleaning and feature engineering
-- Model evaluation and optimization
-- Time-series analysis and forecasting (including LSTM workflows)
+- Model evaluation and experimentation
+- Time-series analysis and forecasting
 - ETL pipelines and data visualization
-- Financial risk modeling and experimentation
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ Backend & Platform
-
-- FastAPI, Python, REST API design
-- PostgreSQL, SQLAlchemy, Alembic
-- Pydantic, authentication, and API integrations
-- Redis, object storage (S3 / MinIO)
-- Docker-based development and deployment
-- CI/CD with GitHub Actions
+- Tableau, Looker Studio, and Power BI
+- Google Analytics 4 and measurement workflows
 
 </td>
 <td width="50%" valign="top">
 
-### ⛓️ Web3 & Blockchain
+### ⛓️ Web3 & Cyber Intelligence
 
 - Blockchain analytics and wallet intelligence
-- Solidity and Ethereum ecosystem
-- Smart-contract development workflows
-- Foundry-based contract testing and tooling
+- Ethereum and Solidity ecosystem
+- Foundry-based smart-contract testing workflows
 - On-chain data exploration and risk-analysis concepts
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ☁️ Infrastructure & Observability
-
-- Linux and cloud deployment fundamentals
-- AWS and containerized services
-- Nginx / Traefik reverse-proxy workflows
-- Prometheus and Grafana monitoring
-- Application logging and operational troubleshooting
-- Git, GitHub, and collaborative development
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Product & Growth Analytics
-
-- Tableau and Looker Studio
-- Google Analytics 4 (GA4)
-- Google Tag Manager
-- Google Ads and Meta Ads measurement
-- Google Sheets and workflow automation
-- Zapier and Make
+- Cyber threat intelligence and OSINT-oriented workflows
+- Monitoring, alerting, and operational dashboards
 
 </td>
 </tr>
 </table>
 
-<sub>Toolkit combines technologies from my engineering, AI, data, and Web3 work. Depth of hands-on experience varies by tool and project; see individual repositories for implementation details.</sub>
+<sub>Icons use Skill Icons and Shields.io. Technologies reflect areas represented across engineering, AI, data, monitoring, and Web3 work; individual repositories show the actual implementation and current project status.</sub>
 
 ## Engineering Principles
 
