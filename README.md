@@ -83,26 +83,117 @@ A collection spanning stock-price prediction, brand monitoring, and project moni
 </tr>
 </table>
 
-## Technical Toolkit
+## 🧰 Technical Toolkit
 
-<p align="center">
-  <strong>Languages</strong><br/>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,php" alt="Python, JavaScript, TypeScript and PHP" />
-</p>
-<p align="center">
-  <strong>Backend, Frontend & Data</strong><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,react,html,css,postgres,mysql,mongodb" alt="Node.js, Express, FastAPI, React, HTML, CSS, PostgreSQL, MySQL and MongoDB" />
-</p>
-<p align="center">
-  <strong>AI, Dev Tools & Infrastructure</strong><br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,docker,linux,git,github,vscode" alt="TensorFlow, PyTorch, Docker, Linux, Git, GitHub and VS Code" />
-</p>
-<p align="center">
-  <strong>Web3</strong><br/>
-  <img src="https://skillicons.dev/icons?i=solidity,ethereum" alt="Solidity and Ethereum" />
-  <br/>
-  <sub>Blockchain analytics and wallet intelligence are focus areas; icons indicate ecosystem interests, not a claim that every listed tool is used in every project.</sub>
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,ts,js,sql,html,css&theme=dark" alt="Python, TypeScript, JavaScript, SQL, HTML and CSS" />
+
+**Languages & Foundations**
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,react,nextjs,tailwind&theme=dark" alt="FastAPI, Node.js, React, Next.js and Tailwind CSS" />
+
+**Backend, APIs & Frontend**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb&theme=dark" alt="PostgreSQL, MySQL, Redis and MongoDB" />
+
+**Data Stores & Caching**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" alt="PyTorch, TensorFlow and OpenCV" />
+
+**AI, Machine Learning & Computer Vision**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,nginx,githubactions,git&theme=dark" alt="Docker, Kubernetes, AWS, Linux, Nginx, GitHub Actions and Git" />
+
+**Infrastructure, DevOps & Delivery**
+
+<img src="https://skillicons.dev/icons?i=solidity,ethereum&theme=dark" alt="Solidity and Ethereum" />
+
+**Web3 & Blockchain**
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI & LLM Engineering
+
+- OpenAI API and Gemini
+- LangChain and Hugging Face
+- Retrieval-Augmented Generation (RAG)
+- LLM application integration and AI-assisted workflows
+- Prompt design, structured outputs, and tool integrations
+- Applied NLP and document intelligence
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 Data Science & Analytics
+
+- pandas, NumPy, scikit-learn
+- Data cleaning and feature engineering
+- Model evaluation and optimization
+- Time-series analysis and forecasting (including LSTM workflows)
+- ETL pipelines and data visualization
+- Financial risk modeling and experimentation
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Backend & Platform
+
+- FastAPI, Python, REST API design
+- PostgreSQL, SQLAlchemy, Alembic
+- Pydantic, authentication, and API integrations
+- Redis, object storage (S3 / MinIO)
+- Docker-based development and deployment
+- CI/CD with GitHub Actions
+
+</td>
+<td width="50%" valign="top">
+
+### ⛓️ Web3 & Blockchain
+
+- Blockchain analytics and wallet intelligence
+- Solidity and Ethereum ecosystem
+- Smart-contract development workflows
+- Foundry-based contract testing and tooling
+- On-chain data exploration and risk-analysis concepts
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ Infrastructure & Observability
+
+- Linux and cloud deployment fundamentals
+- AWS and containerized services
+- Nginx / Traefik reverse-proxy workflows
+- Prometheus and Grafana monitoring
+- Application logging and operational troubleshooting
+- Git, GitHub, and collaborative development
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Product & Growth Analytics
+
+- Tableau and Looker Studio
+- Google Analytics 4 (GA4)
+- Google Tag Manager
+- Google Ads and Meta Ads measurement
+- Google Sheets and workflow automation
+- Zapier and Make
+
+</td>
+</tr>
+</table>
+
+<sub>Toolkit combines technologies from my engineering, AI, data, and Web3 work. Depth of hands-on experience varies by tool and project; see individual repositories for implementation details.</sub>
 
 ## Engineering Principles
 
