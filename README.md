@@ -86,80 +86,79 @@ A collection spanning stock-price prediction, brand monitoring, and project moni
 ## 🧰 Technical Toolkit
 
 ### 💻 Languages
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=go,python,ts,js,php,html,css&theme=dark" alt="Go, Python, TypeScript, JavaScript, PHP, HTML and CSS" />
 </div>
 
 ### 🏗️ Software Engineering
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,django,react,nextjs,tailwind&theme=dark" alt="FastAPI, Node.js, Express, Django, React, Next.js and Tailwind CSS" />
-  <br/>
-  <img src="https://img.shields.io/badge/REST%20APIs-0B84F3?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/REST_APIs-0B84F3?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
   <img src="https://img.shields.io/badge/WebSockets-7B61FF?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" />
+  <br/><br/>
   <img src="https://img.shields.io/badge/JWT-222222?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT authentication" />
-  <img src="https://img.shields.io/badge/Testing%20%26%20CI-00A98F?style=for-the-badge&logo=githubactions&logoColor=white" alt="Testing and CI" />
+  <img src="https://img.shields.io/badge/Testing_and_CI-00A98F?style=for-the-badge&logo=githubactions&logoColor=white" alt="Testing and CI" />
 </div>
 
 ### 🗄️ Databases & Data Access
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" alt="PostgreSQL, MySQL, MongoDB and Redis" />
-  <br/>
+  <br/><br/>
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
   <img src="https://img.shields.io/badge/Alembic-333333?style=for-the-badge" alt="Alembic migrations" />
   <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge" alt="Pydantic" />
 </div>
 
 ### 🧠 AI, LLM & Machine Learning
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" alt="PyTorch, TensorFlow and OpenCV" />
-  <br/>
+  <br/><br/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  <br/><br/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
 </div>
 
 ### ☁️ DevOps, Cloud & Observability
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,nginx,githubactions,git,github&theme=dark" alt="Docker, Kubernetes, AWS, Linux, Nginx, GitHub Actions, Git and GitHub" />
-  <br/>
+  <br/><br/>
   <img src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white" alt="Traefik" />
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <br/><br/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
-  <img src="https://img.shields.io/badge/S3%20%2F%20MinIO-C72E49?style=for-the-badge" alt="S3 and MinIO object storage" />
+  <img src="https://img.shields.io/badge/S3_/_MinIO-C72E49?style=for-the-badge" alt="S3 and MinIO object storage" />
 </div>
 
 ### ⛓️ Web3 & Blockchain
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=solidity&theme=dark" alt="Solidity" />
-  <br/>
+  <br/><br/>
   <img src="https://img.shields.io/badge/Ethereum-627EEA?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" />
   <img src="https://img.shields.io/badge/Foundry-202020?style=for-the-badge&logo=ethereum&logoColor=white" alt="Foundry" />
   <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white" alt="OpenZeppelin" />
+  <br/><br/>
   <img src="https://img.shields.io/badge/Web3.py-F16822?style=for-the-badge&logo=python&logoColor=white" alt="Web3.py" />
   <img src="https://img.shields.io/badge/wagmi-1B1B1F?style=for-the-badge" alt="wagmi" />
   <img src="https://img.shields.io/badge/viem-1B1B1F?style=for-the-badge" alt="viem" />
-  <br/>
-  <img src="https://img.shields.io/badge/On--chain%20Analytics-00BFA6?style=for-the-badge" alt="On-chain analytics" />
-  <img src="https://img.shields.io/badge/Wallet%20Intelligence-7B61FF?style=for-the-badge" alt="Wallet intelligence" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/On--chain_Analytics-00BFA6?style=for-the-badge" alt="On-chain analytics" />
+  <img src="https://img.shields.io/badge/Wallet_Intelligence-7B61FF?style=for-the-badge" alt="Wallet intelligence" />
 </div>
 
 ### 📊 Data Science, BI & Automation
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" alt="NumPy and pandas" />
-  <br/>
+  <br/><br/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics 4" />
+  <br/><br/>
   <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier" />
   <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge" alt="Make automation" />
 </div>
