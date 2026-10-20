@@ -89,7 +89,7 @@ A collection spanning stock-price prediction, brand monitoring, and project moni
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,php,html,css&theme=dark" alt="Python, TypeScript, JavaScript, PHP, HTML and CSS" />
+<img src="https://skillicons.dev/icons?i=go,python,ts,js,php,html,css&theme=dark" alt="Go, Python, TypeScript, JavaScript, PHP, HTML and CSS" />
 
 ### 🏗️ Software Engineering
 
@@ -129,9 +129,13 @@ A collection spanning stock-price prediction, brand monitoring, and project moni
 
 ### ⛓️ Web3 & Blockchain
 
-<img src="https://skillicons.dev/icons?i=solidity,ethereum&theme=dark" alt="Solidity and Ethereum" />
+<img src="https://skillicons.dev/icons?i=solidity,go,ts,python,ethereum&theme=dark" alt="Solidity, Go, TypeScript, Python and Ethereum" />
 
 <img src="https://img.shields.io/badge/Foundry-202020?style=for-the-badge&logo=ethereum&logoColor=white" alt="Foundry" />
+<img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white" alt="OpenZeppelin" />
+<img src="https://img.shields.io/badge/Web3.py-F16822?style=for-the-badge&logo=python&logoColor=white" alt="Web3.py" />
+<img src="https://img.shields.io/badge/wagmi-1B1B1F?style=for-the-badge" alt="wagmi" />
+<img src="https://img.shields.io/badge/viem-1B1B1F?style=for-the-badge" alt="viem" />
 <img src="https://img.shields.io/badge/On--chain%20Analytics-00BFA6?style=for-the-badge" alt="On-chain analytics" />
 <img src="https://img.shields.io/badge/Wallet%20Intelligence-7B61FF?style=for-the-badge" alt="Wallet intelligence" />
 
@@ -196,10 +200,11 @@ A collection spanning stock-price prediction, brand monitoring, and project moni
 
 ### ⛓️ Web3 & Cyber Intelligence
 
-- Blockchain analytics and wallet intelligence
-- Ethereum and Solidity ecosystem
-- Foundry-based smart-contract testing workflows
-- On-chain data exploration and risk-analysis concepts
+- **Languages:** Solidity for smart contracts; Go, TypeScript, and Python for blockchain-connected services and applications
+- **EVM ecosystem:** Ethereum, EVM-compatible networks, and testnets
+- **Smart contracts:** Foundry workflows and OpenZeppelin libraries
+- **Application integration:** Web3.py, wagmi, and viem
+- **On-chain data:** wallet intelligence, RPC integration, transaction analysis, and risk-analysis concepts
 - Cyber threat intelligence and OSINT-oriented workflows
 - Monitoring, alerting, and operational dashboards
 
