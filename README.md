@@ -1,7 +1,7 @@
 <!-- Tatas Handharu | Software Engineering & Web3 -->
 
 <div align="center">
-  <img src="./assets/profile-banner.svg" alt="Tatas Handharu — Software Engineer, AI Systems and Web3" width="100%" />
+  <img src="./assets/profile-banner-v2.svg" alt="Tatas Handharu — Software Engineer, AI Systems and Web3" width="100%" />
   <br/>
   <a href="https://tatashandharu15.github.io">Portfolio</a> ·
   <a href="https://github.com/tatashandharu15">GitHub</a> ·
