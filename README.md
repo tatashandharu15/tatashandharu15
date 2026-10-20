@@ -87,16 +87,9 @@ A collection spanning stock-price prediction, brand monitoring, and project moni
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" valign="top" width="50%">
-
 ### 💻 Languages
 
 <img src="https://skillicons.dev/icons?i=go,python,ts,js,php,html,css&theme=dark" alt="Go, Python, TypeScript, JavaScript, PHP, HTML and CSS" />
-
-</td>
-<td align="center" valign="top" width="50%">
 
 ### 🏗️ Software Engineering
 
@@ -107,11 +100,6 @@ A collection spanning stock-price prediction, brand monitoring, and project moni
 <img src="https://img.shields.io/badge/JWT-222222?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT authentication" />
 <img src="https://img.shields.io/badge/Testing%20%26%20CI-00A98F?style=for-the-badge&logo=githubactions&logoColor=white" alt="Testing and CI" />
 
-</td>
-</tr>
-<tr>
-<td align="center" valign="top" width="50%">
-
 ### 🗄️ Databases & Data Access
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" alt="PostgreSQL, MySQL, MongoDB and Redis" />
@@ -119,9 +107,6 @@ A collection spanning stock-price prediction, brand monitoring, and project moni
 <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
 <img src="https://img.shields.io/badge/Alembic-333333?style=for-the-badge" alt="Alembic migrations" />
 <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge" alt="Pydantic" />
-
-</td>
-<td align="center" valign="top" width="50%">
 
 ### 🧠 AI, LLM & Machine Learning
 
@@ -133,11 +118,6 @@ A collection spanning stock-price prediction, brand monitoring, and project moni
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
 
-</td>
-</tr>
-<tr>
-<td align="center" valign="top" width="50%">
-
 ### ☁️ DevOps, Cloud & Observability
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,nginx,githubactions,git,github&theme=dark" alt="Docker, Kubernetes, AWS, Linux, Nginx, GitHub Actions, Git and GitHub" />
@@ -147,13 +127,11 @@ A collection spanning stock-price prediction, brand monitoring, and project moni
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
 <img src="https://img.shields.io/badge/S3%20%2F%20MinIO-C72E49?style=for-the-badge" alt="S3 and MinIO object storage" />
 
-</td>
-<td align="center" valign="top" width="50%">
-
 ### ⛓️ Web3 & Blockchain
 
-<img src="https://skillicons.dev/icons?i=solidity,ethereum&theme=dark" alt="Solidity and Ethereum" />
+<img src="https://skillicons.dev/icons?i=solidity&theme=dark" alt="Solidity" />
 
+<img src="https://img.shields.io/badge/Ethereum-627EEA?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" />
 <img src="https://img.shields.io/badge/Foundry-202020?style=for-the-badge&logo=ethereum&logoColor=white" alt="Foundry" />
 <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white" alt="OpenZeppelin" />
 <img src="https://img.shields.io/badge/Web3.py-F16822?style=for-the-badge&logo=python&logoColor=white" alt="Web3.py" />
@@ -161,11 +139,6 @@ A collection spanning stock-price prediction, brand monitoring, and project moni
 <img src="https://img.shields.io/badge/viem-1B1B1F?style=for-the-badge" alt="viem" />
 <img src="https://img.shields.io/badge/On--chain%20Analytics-00BFA6?style=for-the-badge" alt="On-chain analytics" />
 <img src="https://img.shields.io/badge/Wallet%20Intelligence-7B61FF?style=for-the-badge" alt="Wallet intelligence" />
-
-</td>
-</tr>
-<tr>
-<td align="center" valign="top" width="100%" colspan="2">
 
 ### 📊 Data Science, BI & Automation
 
@@ -177,10 +150,6 @@ A collection spanning stock-price prediction, brand monitoring, and project moni
 <img src="https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics 4" />
 <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier" />
 <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge" alt="Make automation" />
-
-</td>
-</tr>
-</table>
 
 </div>
 
