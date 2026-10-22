@@ -1,7 +1,7 @@
-<!-- Tatas Handharu | Software Engineering & Web3 -->
+<!-- Tatas Handharu | Software Engineer -->
 
 <div align="center">
-  <img src="./assets/profile-banner-v2.svg" alt="Tatas Handharu — Software Engineer, AI Systems and Web3" width="100%" />
+  <img src="./assets/profile-banner-v2.svg" alt="Tatas Handharu — Software Engineer" width="100%" />
   <br/>
   <a href="https://tatashandharu15.github.io">Portfolio</a> ·
   <a href="https://github.com/tatashandharu15">GitHub</a> ·
@@ -10,244 +10,60 @@
 
 ---
 
-## 👋 A little about me
+## About
 
-I enjoy building software that connects the dots — from backend systems and AI-powered workflows to the possibilities of Web3.
+I'm a software engineer interested in building practical applications, backend services, and integrations. I enjoy working through the full development cycle: understanding a problem, shaping the implementation, debugging edge cases, and documenting how to run and maintain the result.
 
-I’m usually curious about **how things work under the hood**: how data moves, how services fit together, how AI can make a workflow smarter, and how to turn an idea into something people can actually use.
+My current interests include backend engineering, API design, data persistence, AI-enabled application workflows, and blockchain-connected services. I use this profile to share projects, experiments, and engineering work in progress.
 
-Right now, I’m exploring the space where **software engineering × AI × blockchain** meet. This profile is my workshop: experiments, projects, and things I’m learning along the way.
+## Selected Projects
 
-## 🚀 Things on my workbench
+### [AI-Assisted Lead Management System](https://github.com/tatashandharu15/ai-assisted-lead-management)
 
-<table>
-<tr>
-<td width="50%" valign="top">
+A lead-management application with REST APIs, data ingestion, duplicate detection, source extraction, and a lightweight dashboard. The repository contains Python/FastAPI and Node.js/TypeScript backend implementations.
 
-<h3>⛓️ Cryptonite Engine</h3>
+**Focus:** API design, backend implementation, data validation, service behavior, and testing.
 
-A project exploring blockchain-focused engineering and tooling.
+### [Headless Crypto Payment Gateway Engine](https://github.com/tatashandharu15/crypto-pgaway)
 
-<a href="https://github.com/tatashandharu15/cryptonite-engine"><img src="https://img.shields.io/badge/EXPLORE_REPO-00BFA6?style=for-the-badge&logo=github&logoColor=white" alt="Explore Cryptonite Engine"/></a>
+A backend API prototype for creating and tracking crypto-payment records, built with Node.js, Express, PostgreSQL, and Prisma. The current implementation uses a mock exchange rate and manual transaction validation; it should not be treated as a production payment service.
 
-</td>
-<td width="50%" valign="top">
+**Focus:** API endpoints, persistence, middleware, background polling, and service structure.
 
-<h3>🌐 Nexchain</h3>
+### [AI-Assisted Development Workspace](https://github.com/tatashandharu15/Cyber-Threat-Intelligent)
 
-A Web3 project space for exploring blockchain ideas and implementation.
+A reusable monorepo workspace template for organizing project context, architecture decisions, requirements, tasks, and AI-assisted development workflows. This is a development-workflow template, not a cyber-threat detection product.
 
-<a href="https://github.com/tatashandharu15/nexchain"><img src="https://img.shields.io/badge/EXPLORE_REPO-7B61FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore Nexchain"/></a>
+**Focus:** repository structure, technical documentation, architecture governance, and maintainable development workflows.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+## Technical Toolkit
 
-<h3>🧠 AI-Assisted Lead Management</h3>
+The technologies below are represented in my projects; each repository's setup and source code are the best reference for its actual implementation.
 
-An application focused on bringing AI assistance into a lead-management workflow.
-
-<a href="https://github.com/tatashandharu15/ai-assisted-lead-management"><img src="https://img.shields.io/badge/EXPLORE_REPO-0B84F3?style=for-the-badge&logo=github&logoColor=white" alt="Explore AI-Assisted Lead Management"/></a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🔎 CV Analytics with LLM</h3>
-
-An experiment with using large language models for CV-related analysis.
-
-<a href="https://github.com/tatashandharu15/CV-Analytics-LLM--using-OpenAI"><img src="https://img.shields.io/badge/EXPLORE_REPO-FF72CF?style=for-the-badge&logo=github&logoColor=white" alt="Explore CV Analytics with LLM"/></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🛡️ Cyber Threat Intelligence</h3>
-
-A project in the cybersecurity intelligence space.
-
-<a href="https://github.com/tatashandharu15/Cyber-Threat-Intelligent"><img src="https://img.shields.io/badge/EXPLORE_REPO-FF9F43?style=for-the-badge&logo=github&logoColor=white" alt="Explore Cyber Threat Intelligence"/></a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>📊 Data & Monitoring Projects</h3>
-
-A collection spanning stock-price prediction, brand monitoring, and project monitoring.
-
-<a href="https://github.com/tatashandharu15?tab=repositories"><img src="https://img.shields.io/badge/BROWSE_ALL_PROJECTS-334155?style=for-the-badge&logo=github&logoColor=white" alt="Browse all projects"/></a>
-
-</td>
-</tr>
-</table>
-
-## 🧰 Technical Toolkit
-
-**Languages**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=go,python,ts,js,php,html,css&theme=dark" alt="Go, Python, TypeScript, JavaScript, PHP, HTML and CSS" />
-</div>
-
-**Software Engineering**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,django,react,nextjs,tailwind&theme=dark" alt="FastAPI, Node.js, Express, Django, React, Next.js and Tailwind CSS" />
-  <br/>
-  <img src="https://img.shields.io/badge/REST_APIs-0B84F3?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/WebSockets-7B61FF?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets" />
-  <img src="https://img.shields.io/badge/JWT-222222?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT authentication" />
-  <img src="https://img.shields.io/badge/Testing_%26_CI-00A98F?style=flat-square&logo=githubactions&logoColor=white" alt="Testing and CI" />
-</div>
-
-**Databases & Data Access**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" alt="PostgreSQL, MySQL, MongoDB and Redis" />
-  <br/>
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
-  <img src="https://img.shields.io/badge/Alembic-333333?style=flat-square" alt="Alembic migrations" />
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square" alt="Pydantic" />
-</div>
-
-**AI, LLM & Machine Learning**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" alt="PyTorch, TensorFlow and OpenCV" />
-  <br/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-</div>
-
-**DevOps, Cloud & Observability**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,nginx,githubactions,git,github&theme=dark" alt="Docker, Kubernetes, AWS, Linux, Nginx, GitHub Actions, Git and GitHub" />
-  <br/>
-  <img src="https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white" alt="Traefik" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
-  <img src="https://img.shields.io/badge/S3_%2F_MinIO-C72E49?style=flat-square" alt="S3 and MinIO object storage" />
-</div>
-
-**Web3 & Blockchain**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=solidity&theme=dark" alt="Solidity" />
-  <br/>
-  <img src="https://img.shields.io/badge/Ethereum-627EEA?style=flat-square&logo=ethereum&logoColor=white" alt="Ethereum" />
-  <img src="https://img.shields.io/badge/Foundry-202020?style=flat-square&logo=ethereum&logoColor=white" alt="Foundry" />
-  <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=flat-square&logo=openzeppelin&logoColor=white" alt="OpenZeppelin" />
-  <img src="https://img.shields.io/badge/Web3.py-F16822?style=flat-square&logo=python&logoColor=white" alt="Web3.py" />
-  <img src="https://img.shields.io/badge/wagmi-1B1B1F?style=flat-square" alt="wagmi" />
-  <img src="https://img.shields.io/badge/viem-1B1B1F?style=flat-square" alt="viem" />
-  <br/>
-  <img src="https://img.shields.io/badge/On--chain_Analytics-00BFA6?style=flat-square" alt="On-chain analytics" />
-  <img src="https://img.shields.io/badge/Wallet_Intelligence-7B61FF?style=flat-square" alt="Wallet intelligence" />
-</div>
-
-**Data Science, BI & Automation**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" alt="NumPy and pandas" />
-  <br/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white" alt="Looker Studio" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=googleanalytics&logoColor=white" alt="Google Analytics 4" />
-  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white" alt="Zapier" />
-  <img src="https://img.shields.io/badge/Make-6D00CC?style=flat-square" alt="Make automation" />
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧩 Software Engineering & Architecture
-
-- Backend and platform engineering
-- REST API design and service integrations
-- Authentication and session management (JWT)
-- Database modeling, migrations, and ORM workflows
-- Modular application architecture and domain-based services
-- Testing, debugging, code review, and maintainability
-- Real-time integrations with WebSockets
-- CI/CD and repeatable deployment workflows
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI & LLM Engineering
-
-- OpenAI API and Google Gemini
-- LangChain and Hugging Face
-- Retrieval-Augmented Generation (RAG)
-- AI agents, tool integrations, and structured outputs
-- Prompt engineering and LLM application integration
-- Applied NLP and document intelligence
-- AI workflow automation and monitoring
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📈 Data Science & Analytics
-
-- pandas, NumPy, scikit-learn
-- Data cleaning and feature engineering
-- Model evaluation and experimentation
-- Time-series analysis and forecasting
-- ETL pipelines and data visualization
-- Tableau, Looker Studio, and Power BI
-- Google Analytics 4 and measurement workflows
-
-</td>
-<td width="50%" valign="top">
-
-### ⛓️ Web3 & Cyber Intelligence
-
-- **Languages:** Solidity for smart contracts; Go, TypeScript, and Python for blockchain-connected services and applications
-- **EVM ecosystem:** Ethereum, EVM-compatible networks, and testnets
-- **Smart contracts:** Foundry workflows and OpenZeppelin libraries
-- **Application integration:** Web3.py, wagmi, and viem
-- **On-chain data:** wallet intelligence, RPC integration, transaction analysis, and risk-analysis concepts
-- Cyber threat intelligence and OSINT-oriented workflows
-- Monitoring, alerting, and operational dashboards
-
-</td>
-</tr>
-</table>
-
-<sub>Icons use Skill Icons and Shields.io. Technologies reflect areas represented across engineering, AI, data, monitoring, and Web3 work; individual repositories show the actual implementation and current project status.</sub>
+- **Languages:** Python, TypeScript, JavaScript, SQL
+- **Backend & APIs:** FastAPI, Node.js, Express, Fastify
+- **Data & persistence:** PostgreSQL, SQLite, Prisma
+- **Engineering workflow:** Git, GitHub, automated tests, technical documentation
+- **Applied areas:** AI-enabled workflows, data processing, blockchain-connected applications
 
 ## Engineering Principles
 
-- **Maintainability first:** clear boundaries, readable code, and explicit contracts.
-- **Test beyond the happy path:** validate edge cases and failure behavior.
-- **Security as a baseline:** validate inputs, protect secrets, and review dependencies.
-- **Operational clarity:** document configuration, setup, and troubleshooting.
-- **Honest delivery:** separate implemented features from experiments and planned work.
+- **Clarity over cleverness:** keep code and interfaces understandable.
+- **Validate behavior:** test edge cases and failure paths, not only the happy path.
+- **Document how to run it:** include prerequisites, configuration, and reproducible setup steps.
+- **Be precise about project status:** distinguish working implementations, prototypes, templates, and future ideas.
+- **Improve incrementally:** prefer focused changes that are easier to review and maintain.
 
-## GitHub Activity
+## What I'm Working Toward
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tatashandharu15&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatashandharu15&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=tatashandharu15&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
-</div>
-
-## Current Direction
-
-- Building reliable backend and AI-powered applications.
-- Exploring practical Web3 and blockchain tooling.
-- Improving test coverage, documentation, and repeatable engineering workflows.
+I'm continuing to strengthen my software engineering practice through clearer project documentation, reproducible setup instructions, focused testing, and maintainable implementations.
 
 ---
 
 <div align="center">
-  <img src="./assets/tatas-logo.svg" alt="Tatas logo" width="88" />
+  <img src="./assets/tatas-logo.svg" alt="Tatas logo" width="72" />
   <br/>
-  <strong>Build useful systems. Make them reliable. Keep learning.</strong>
+  <strong>Build useful software. Keep it clear. Make it reliable.</strong>
   <br/>
   <sub>Jakarta, Indonesia · UTC+7</sub>
 </div>
